@@ -1,11 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="your.awesome.packagename" version="3.3.3" versionCode="30303" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>
-        Your awesome game name!
-    </name>
-    <description>
-        Your awesome game description!
-    </description>
+<widget id="com.yourname.slotgame" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+  <name>Lucky Spin Slot</name>
+  <description>Aplikasi landing slot game</description>
     <author email="fabrique@azerion.com" href="https://azerion.com/">
         Azerion Productions B.V.
     </author>
